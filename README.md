@@ -6,5 +6,5 @@ Members:
 2. Naik Bhavan Chandrashekhar - PES2201800047
 3. Siddharth Shenoy - PES2201800499
 
-Selected Topic before SRS: Club Management Application
-Assigned Topic after SRS: Knowledge Repository
+- Selected Topic before SRS: Club Management Application
+- Assigned Topic after SRS: Knowledge Repository
