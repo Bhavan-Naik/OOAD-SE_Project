@@ -8,3 +8,7 @@ Members:
 
 - Selected Topic before SRS: Club Management Application
 - Assigned Topic after SRS: Knowledge Repository
+
+- First Week: Basic Website Setup
+- Second Week: Adding the functionalities
+- Third Week: Testing and beautifying content
